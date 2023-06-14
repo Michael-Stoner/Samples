@@ -2,7 +2,7 @@
 
 A few samples of my work are provided below.
 
-1. [MAS.Monitor](https://github.com/Michael-Stoner) - This is a generic plugin-based fault tolerent systems monitor.  A full write up of the capabilites is provided in the readme of the repository.  The monitor has been used to check system states including:
+1. [MAS.Monitor](https://github.com/Michael-Stoner/MAS.Monitor)  - This is a generic plugin-based fault tolerent systems monitor.  A full write up of the capabilites is provided in the readme of the repository.  The monitor has been used to check system states including:
     - Websites active
     - Database servers active
     - Database backups performed
